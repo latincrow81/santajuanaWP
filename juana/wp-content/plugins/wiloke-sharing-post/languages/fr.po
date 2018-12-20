@@ -1,0 +1,1690 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Your Journey\n"
+"POT-Creation-Date: 2015-10-10 12:42+0700\n"
+"PO-Revision-Date: 2015-10-10 12:50+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:16
+msgid "Sorry, Page not found !"
+msgstr "Désolés, page non trouvée!"
+
+#: 404.php:19
+msgid "Search and hit enter"
+msgstr "Rechercher et appuyez sur « Entrer »"
+
+#: 404.php:22
+msgid "Go to home"
+msgstr "Retour à l'accueil"
+
+#: admin/admin.php:15 admin/category/category.php:71
+#: admin/category/category.php:90
+#: customizer/modules/header/headerimage/settings.php:7
+msgid "Header Image"
+msgstr "Image de l’en-tête"
+
+#: admin/admin.php:33
+msgid ""
+"This settings will overide Header Image section in Customize. We recommend a "
+"header size of 1280x385px."
+msgstr ""
+"Ce paramètres seront section Header Image overide dans personnaliser. Nous "
+"vous recommandons une taille de l'entête de 1280x385px."
+
+#: admin/admin.php:46 admin/author/setting.php:25
+#: admin/category/category.php:74 admin/category/category.php:95
+#: admin/post/post.php:117 admin/post/post.php:164
+#: admin/widgets/widgets.php:716 admin/widgets/widgets.php:1280
+#: customizer/modules/header/favicon/settings.php:23
+msgid "Upload"
+msgstr "Télécharger"
+
+#: admin/author/setting.php:22
+msgid "Avatar"
+msgstr "Avatar"
+
+#: admin/author/setting.php:39
+#: customizer/modules/basic-settings/rtl/settings.php:21
+#: customizer/modules/basic-settings/white-box/settings.php:23
+#: customizer/modules/footer/copyright/settings.php:25
+#: customizer/modules/footer/social/settings.php:20
+#: customizer/modules/header/headerimage/settings.php:25
+#: customizer/modules/header/logo/settings.php:23
+#: customizer/modules/homepage/featured-slider/settings.php:46
+#: customizer/modules/singular/next-prev/settings.php:22
+#: customizer/modules/singular/post-author/settings.php:22
+#: customizer/modules/singular/related-posts/settings.php:23
+#: customizer/modules/singular/sharing-box/settings.php:24
+#: wiloke/basic-settings/preloader/settings.php:21
+msgid "Enable/Disable"
+msgstr "Activer/Désactiver"
+
+#: admin/author/setting.php:43 admin/mega-menu/mega-menu.php:262
+#: customizer/modules/basic-settings/rtl/settings.php:27
+#: customizer/modules/footer/copyright/settings.php:30
+#: customizer/modules/singular/next-prev/settings.php:28
+#: customizer/modules/singular/post-author/settings.php:28
+msgid "Enable"
+msgstr "Activer"
+
+#: admin/author/setting.php:44
+msgid "Disbale"
+msgstr "Disbale"
+
+#: admin/author/setting.php:51
+msgid "Social Networks"
+msgstr "Réseaux sociaux"
+
+#: admin/category/category.php:77 admin/category/category.php:102
+msgid "This setting will overide the image in customize"
+msgstr "Ce paramètre sera overide l'image à personnaliser"
+
+#: admin/mega-menu/mega-menu.php:259
+msgid "Mega Menu"
+msgstr "Méga Menu"
+
+#: admin/mega-menu/mega-menu.php:261
+#: customizer/modules/basic-settings/rtl/settings.php:26
+#: customizer/modules/footer/copyright/settings.php:31
+#: customizer/modules/singular/next-prev/settings.php:29
+#: customizer/modules/singular/post-author/settings.php:29
+msgid "Disable"
+msgstr "Désactiver"
+
+#: admin/mega-menu/mega-menu.php:268
+msgid "Number Of Columns"
+msgstr "Nombre de colonnes"
+
+#: admin/mega-menu/mega-menu.php:279
+msgid "Style"
+msgstr "Style"
+
+#: admin/mega-menu/mega-menu.php:281 admin/post/post.php:112
+msgid "Images"
+msgstr "Images"
+
+#: admin/mega-menu/mega-menu.php:282
+msgid "Listing"
+msgstr "Exposant"
+
+#: admin/mega-menu/mega-menu.php:288 admin/widgets/widgets.php:60
+#: admin/widgets/widgets.php:315 admin/widgets/widgets.php:387
+#: admin/widgets/widgets.php:513 admin/widgets/widgets.php:630
+#: customizer/modules/homepage/featured-slider/settings.php:122
+#: customizer/modules/singular/related-posts/settings.php:67
+msgid "Number Of Posts"
+msgstr "Nombre d'articles"
+
+#: admin/mega-menu/mega-menu.php:291
+msgid "Note: Enter number of posts if you are using the listing type."
+msgstr ""
+"Remarque : Saisissez le nombre de postes si vous utilisez le type d'annonce."
+
+#: admin/mega-menu/mega-menu.php:425
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (Invalide)"
+
+#: admin/mega-menu/mega-menu.php:429
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (Pending)"
+
+#: admin/mega-menu/mega-menu.php:442
+msgid "sub item"
+msgstr "Sous Annonce"
+
+#: admin/mega-menu/mega-menu.php:457
+msgid "Move up"
+msgstr "Monter"
+
+#: admin/mega-menu/mega-menu.php:470
+msgid "Move down"
+msgstr "Descendre"
+
+#: admin/mega-menu/mega-menu.php:472 admin/mega-menu/mega-menu.php:474
+msgid "Edit Menu Item"
+msgstr "Modifier Annonce"
+
+#: admin/mega-menu/mega-menu.php:483
+msgid "URL"
+msgstr "URL"
+
+#: admin/mega-menu/mega-menu.php:490
+msgid "Navigation Label"
+msgstr "Étiquette de Navigation"
+
+#: admin/mega-menu/mega-menu.php:496
+msgid "Title Attribute"
+msgstr "Attribut du titre"
+
+#: admin/mega-menu/mega-menu.php:503
+msgid "Open link in a new window/tab"
+msgstr "Ouvrir le lien dans une nouvelle fenêtre/onglet"
+
+#: admin/mega-menu/mega-menu.php:508
+msgid "CSS Classes (optional)"
+msgstr "Classes CSS (optionnel)"
+
+#: admin/mega-menu/mega-menu.php:514
+msgid "Link Relationship (XFN)"
+msgstr "Relations des liens (XFN)"
+
+#: admin/mega-menu/mega-menu.php:520 admin/page/settings.php:50
+#: admin/widgets/widgets.php:724 admin/widgets/widgets.php:1513
+#: customizer/modules/basic-settings/search/settings.php:69
+msgid "Description"
+msgstr "Description"
+
+#: admin/mega-menu/mega-menu.php:522
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+"La description sera affichée dans le menu si le thème actuel le permet."
+
+#: admin/mega-menu/mega-menu.php:533
+msgid "Move"
+msgstr "Déplacer"
+
+#: admin/mega-menu/mega-menu.php:534
+msgid "Up one"
+msgstr "Monter d’un niveau"
+
+#: admin/mega-menu/mega-menu.php:535
+msgid "Down one"
+msgstr "Descendre d’un niveau"
+
+#: admin/mega-menu/mega-menu.php:538
+msgid "To the top"
+msgstr "Vers le haut"
+
+#: admin/mega-menu/mega-menu.php:545
+#, php-format
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: admin/mega-menu/mega-menu.php:558
+msgid "Remove"
+msgstr "Supprimer"
+
+#: admin/mega-menu/mega-menu.php:559
+msgid "Cancel"
+msgstr "Annuler"
+
+#: admin/page/settings.php:22
+msgid "Content Builder"
+msgstr "Content Builder"
+
+#: admin/page/settings.php:42
+msgid "Contact Info"
+msgstr "Info de Contact"
+
+#: admin/page/settings.php:58 admin/widgets/widgets.php:144
+msgid "Address"
+msgstr "Adresse"
+
+#: admin/page/settings.php:66 admin/widgets/widgets.php:148
+msgid "Email"
+msgstr "Courriel"
+
+#: admin/page/settings.php:74
+msgid "Phone Number"
+msgstr "Téléphone"
+
+#: admin/page/settings.php:82 admin/post/post.php:364
+#: admin/widgets/widgets.php:224
+msgid "Latitude"
+msgstr "Latitude"
+
+#: admin/page/settings.php:90
+msgid "Longtude"
+msgstr "Longtude"
+
+#: admin/page/settings.php:97
+msgid "Get Latitude Longitude"
+msgstr "Latitude & Longitude"
+
+#: admin/page/settings.php:133
+msgid "You need Contact form 7 plugin installed/actived!"
+msgstr "Vous devez contacter formulaire 7 plugin installé/activé !"
+
+#: admin/page/settings.php:147
+#, php-format
+msgid "Click <a href='%s'>here</a> to create a contact form"
+msgstr "Cliquez <a href='%s'>ici</a> pour créer un formulaire de contact"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:303
+#: admin/plugin-activation/plugin-activation.php:104
+msgid "Install Required Plugins"
+msgstr "Installez les plugins requis"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:304
+#: admin/plugin-activation/plugin-activation.php:105
+msgid "Install Plugins"
+msgstr "Installer les plugins"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:305
+#: admin/plugin-activation/plugin-activation.php:106
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installation du plugin : %s"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:306
+#: admin/plugin-activation/plugin-activation.php:107
+msgid "Something went wrong with the plugin API."
+msgstr "Un problème est survenu avec l API plugin."
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:308
+#: admin/plugin-activation/plugin-activation.php:108
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ce thème nécessite le plugin suivant : %1$s."
+msgstr[1] ""
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:313
+#: admin/plugin-activation/plugin-activation.php:109
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ce thème recommande l’extension suivante : %1$s."
+msgstr[1] ""
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:318
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+"Désolé, mais vous ne disposez pas des autorisations nécessaires pour "
+"installer le plugin de% 1 $."
+msgstr[1] ""
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:323
+#: admin/plugin-activation/plugin-activation.php:114
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"L’extension suivante doit être mis à jour vers sa dernière version afin "
+"d’assurer une compatibilité maximale avec ce thème : %1$s."
+msgstr[1] ""
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:328
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Il ya une mise à jour disponible pour:%1$s."
+msgstr[1] ""
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:333
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+"Désolé, mais vous ne disposez pas des autorisations nécessaires pour mettre "
+"à jour le plugin% 1 $."
+msgstr[1] ""
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:338
+#: admin/plugin-activation/plugin-activation.php:111
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "L’extension requise suivante  est actuellement inactive :%1$s."
+msgstr[1] ""
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:343
+#: admin/plugin-activation/plugin-activation.php:112
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "L’extension recommandée suivante est actuellement inactive : %1$s."
+msgstr[1] ""
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+"Désolé, mais vous ne disposez pas des autorisations nécessaires pour activer "
+"le plugin% 1 $."
+msgstr[1] ""
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:353
+#: admin/plugin-activation/plugin-activation.php:116
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Commencez à installer l’extension"
+msgstr[1] ""
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:358
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Commencez à jour le plugin"
+msgstr[1] ""
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:363
+#: admin/plugin-activation/plugin-activation.php:117
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Activation de l’extension"
+msgstr[1] ""
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:368
+#: admin/plugin-activation/plugin-activation.php:118
+msgid "Return to Required Plugins Installer"
+msgstr "Retournez à la page d’installation et activer les plugins requis"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:369
+msgid "Return to the dashboard"
+msgstr "Retournez au Tableau de bord"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:370
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:3048
+#: admin/plugin-activation/plugin-activation.php:119
+msgid "Plugin activated successfully."
+msgstr "Module activé avec succès."
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:371
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2869
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "L'extension suivante a été activée avec succès :"
+msgstr[1] ""
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:372
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Aucune action n’ a été réalisée. L’extension %1$s était déjà active."
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:373
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"L’extension n’est pas activée. Une version plus récente de %s est nécessaire "
+"pour ce thème. Veuillez mettre à jour l’extension."
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:374
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Installation et activation réussies de tous les plugins. %1$s"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:375
+msgid "Dismiss this notice"
+msgstr "Supprimer cette notice"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:376
+msgid "Please contact the administrator of this site for help."
+msgstr "Veuillez contacter l’administrateur du site pour obtenir de l’aide."
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:494
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Cette extension a besoin d’être mise à jour pour être compatible avec votre "
+"thème."
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:495
+msgid "Update Required"
+msgstr "Mise à jour requise"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:612
+msgid "Set the parent_slug config variable instead."
+msgstr "Définissez la variable de remplacement de configuration parent_slug."
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:811
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:3466
+msgid "Return to the Dashboard"
+msgstr "Retour au Tableau de bord"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:926
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Le pack d’extension distant ne contient pas de dossier avec l’identifiant "
+"désiré et le renommage ne fonctionne pas."
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:926
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:930
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Veuillez contacter le fournisseur de l’extension et demandez-lui de "
+"conditionner son extension selon les lignes directrices de WordPress."
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:930
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Le pack d’extension distant se compose de plusieurs fichiers mais ils ne "
+"sont pas assemblés dans un dossier."
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:1115
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2865
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "et"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:1933
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2214
+msgid "Required"
+msgstr "Requis"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2217
+msgid "Recommended"
+msgstr "Recommandé"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2234
+msgid "WordPress Repository"
+msgstr "Dépôt de Wordpress"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2238
+msgid "External Source"
+msgstr "Source externe"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2242
+msgid "Pre-Packaged"
+msgstr "Pré-packagé"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2261
+msgid "Not Installed"
+msgstr "Pas installé"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2265
+msgid "Installed But Not Activated"
+msgstr "Installé mais pas activé"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2267
+msgid "Active"
+msgstr "Actif"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2273
+msgid "Required Update not Available"
+msgstr "Mise à jour requise non disponible"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2276
+msgid "Requires Update"
+msgstr "Nécessite une mise à jour"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2279
+msgid "Update recommended"
+msgstr "Mise à jour recommandée"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2287
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2336
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tous <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2340
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Pour installer <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2344
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Mise à jour disponible <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2348
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Pour activer <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2441
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "inconnu"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2449
+msgid "Installed version:"
+msgstr "Version installée :"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2457
+msgid "Minimum required version:"
+msgstr "Version minimum requise :"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2469
+msgid "Available version:"
+msgstr "Version disponible :"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+"Aucun plugin à installer, à mettre à jour ou à activer. <a "
+"href=« %1$s »>Retourner au tableau de bord</a>"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2509
+msgid "Plugin"
+msgstr "Extension"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2510
+msgid "Source"
+msgstr "Source"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2511
+msgid "Type"
+msgstr "Type"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2515
+msgid "Version"
+msgstr "Version"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2516
+msgid "Status"
+msgstr "État"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2540
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Installer %2$s"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2546
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Mise à jour %2$s"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2552
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Activer %2$s"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2623
+msgid "Upgrade message from the plugin author:"
+msgstr "Message de mise à jour de l’auteur de l’extension :"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2656
+msgid "Install"
+msgstr "Install"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2662
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2665
+msgid "Activate"
+msgstr "Activer"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2726
+msgid "No plugins are available to be installed at this time."
+msgstr "Aucune extension n’est disponible pour être installée pour le moment."
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2728
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+"Aucune extension n’est disponible pour être mise à jour pour le moment."
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:2851
+msgid "No plugins are available to be activated at this time."
+msgstr "Aucune extension n'est disponible pour être activée pour le moment."
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:3047
+msgid "Plugin activation failed."
+msgstr "L’activation du plugin a échoué."
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:3386
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Mise à jour Plugin %1$s (%2$d/%3$d)"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:3390
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Une erreur est survenue lors de l’installation %1$s : <strong>%2$s</strong>."
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:3391
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "L’installation de %1$s a échouée"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:3395
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Le processus d’installation et d’activation commence… Ce processus peut "
+"prendre un certain temps sur certains serveurs, soyez patients."
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:3396
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installé et activé avec succès."
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:3396
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:3403
+msgid "Show Details"
+msgstr "Voir le détail"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:3396
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:3403
+msgid "Hide Details"
+msgstr "Masquer les détails"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:3397
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et activations sont terminées."
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:3398
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation de l’extension %1$s (%2$d/%3$d)"
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:3402
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Le processus d’installation et d’activation commence. Ce processus peut "
+"prendre un certain temps sur certains serveurs, soyez patients."
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:3403
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s installé avec succès."
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:3404
+msgid "All installations have been completed."
+msgstr "Toutes les installations sont terminées."
+
+#: admin/plugin-activation/TGM-Plugin-Activation-master/class-tgm-plugin-activation.php:3405
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation du plugin %1$s (%2$d/%3$d)"
+
+#: admin/plugin-activation/plugin-activation.php:110
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"Désolé, mais vous n’avez pas l’autorisations nécessaires pour installer "
+"l’extension %s. Contactez l’administrateur de ce site pour obtenir de l’aide."
+msgstr[1] ""
+
+#: admin/plugin-activation/plugin-activation.php:113
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Désolé, mais vous n’avez pas l’autorisations nécessaires pour activer "
+"l’extension %s . Contactez l’administrateur de ce site pour obtenir de "
+"l’aide."
+msgstr[1] ""
+
+#: admin/plugin-activation/plugin-activation.php:115
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Désolé, mais vous ne disposez pas des autorisations nécessaires pour mettre "
+"à jour le %s plugin. Contactez l'administrateur de ce site pour obtenir de "
+"l'aide sur le plugin à jour."
+msgstr[1] ""
+
+#: admin/plugin-activation/plugin-activation.php:120
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Toutes les extensions ont bien été installées et activées. %s"
+
+#: admin/post/post.php:104
+msgid "Post head Options"
+msgstr "Options d'en-tête d'article"
+
+#: admin/post/post.php:143
+msgid "Display as"
+msgstr "Afficher comme"
+
+#: admin/post/post.php:147
+msgid "Simple Slideshow"
+msgstr "Diaporama simple"
+
+#: admin/post/post.php:148
+msgid "Tiled Gallery"
+msgstr "Galerie sol"
+
+#: admin/post/post.php:151
+msgid ""
+"Warning: Tiled Gallery will show maximum of 4 images in the home page, all "
+"images will show in post detail"
+msgstr ""
+"AVERTISSEMENT : Galerie carrelée montrera maximale de 4 images dans la page "
+"d'accueil, toutes les images montrera en détail post"
+
+#: admin/post/post.php:159 admin/widgets/widgets.php:713
+msgid "Image"
+msgstr "Image"
+
+#: admin/post/post.php:182
+msgid "Video"
+msgstr "Vitesse du diaporama"
+
+#: admin/post/post.php:185
+msgid "Enter video link or embed code"
+msgstr "Entrez le lien vidéo ou à code embed"
+
+#: admin/post/post.php:196
+msgid "Enter audio link or embed code"
+msgstr "Entrez le lien audio ou le code embed"
+
+#: admin/post/post.php:204
+msgid "Quote"
+msgstr "Une Question"
+
+#: admin/post/post.php:208 customizer/modules/author/class.author.php:17
+msgid "Author"
+msgstr "Auteur"
+
+#: admin/post/post.php:226
+msgid "Latitude Longitude"
+msgstr "Latitude & Longitude"
+
+#: admin/post/post.php:232
+msgid "Delete Destination"
+msgstr "Supprimer la Destination"
+
+#: admin/post/post.php:239
+msgid "Cache Map"
+msgstr "Carte de cache"
+
+#: admin/post/post.php:246
+msgid "Set Center"
+msgstr "Centre de jeu"
+
+#: admin/post/post.php:257
+msgid ""
+"Note: Check the box below if you want this post to be center on map layout"
+msgstr ""
+"Remarque : Cocher la case ci-dessous si vous souhaitez que ce poste soit "
+"Centre sur présentation de la carte"
+
+#: admin/post/post.php:313
+msgid ""
+"If you are using map layout, You need click Update Cache button below after "
+"you have created the last post."
+msgstr ""
+"Si vous utilisez la mise en page cartographique, vous besoin cliquez sur "
+"bouton de mise à jour Cache ci-dessous après avoir créé le dernier post."
+
+#: admin/post/post.php:341
+msgid "Submit"
+msgstr "Envoyer"
+
+#: admin/post/post.php:358
+msgid ""
+"If you are using Map layout, Latitude - Longitude and Location are required."
+msgstr ""
+"Si vous utilisez la mise en carte, Latitude - Longitude et l'emplacement "
+"sont nécessaires."
+
+#: admin/post/post.php:362
+msgid "Location"
+msgstr "Lieu"
+
+#: admin/post/post.php:363
+msgid "Region/Country"
+msgstr "Région / Pays"
+
+#: admin/post/post.php:365 admin/widgets/widgets.php:228
+msgid "Longitude"
+msgstr "Longitude"
+
+#: admin/theme-settings/settings.php:30
+msgid "API key"
+msgstr "Clef API"
+
+#: admin/theme-settings/settings.php:31 admin/widgets/widgets.php:1523
+#: admin/widgets/widgets.php:1541
+msgid "How to get mailchimp"
+msgstr "Comment obtenir mailchimp"
+
+#: admin/theme-settings/settings.php:36 admin/widgets/widgets.php:1527
+msgid "List ID"
+msgstr "ID de la liste"
+
+#: admin/theme-settings/settings.php:55
+msgid "Save"
+msgstr "Enregistrer"
+
+#: admin/widgets/widgets.php:47
+msgid ""
+"Allows users to add favorite posts. This plugin use cookies for saving data "
+"so unregistered users can favorite a post."
+msgstr ""
+"Permet aux utilisateurs d'ajouter des postes de prédilection. Ce plugin "
+"utilise des cookies pour sauvegarder des données pour les utilisateurs non "
+"enregistrés peuvent favori un poste."
+
+#: admin/widgets/widgets.php:56 admin/widgets/widgets.php:140
+#: admin/widgets/widgets.php:220 admin/widgets/widgets.php:311
+#: admin/widgets/widgets.php:383 admin/widgets/widgets.php:509
+#: admin/widgets/widgets.php:626 admin/widgets/widgets.php:708
+#: admin/widgets/widgets.php:800 admin/widgets/widgets.php:873
+#: admin/widgets/widgets.php:930 admin/widgets/widgets.php:1004
+#: admin/widgets/widgets.php:1078 admin/widgets/widgets.php:1508
+#: customizer/modules/basic-settings/search/settings.php:48
+#: customizer/modules/singular/related-posts/settings.php:46
+msgid "Title"
+msgstr "Titre"
+
+#: admin/widgets/widgets.php:152
+msgid "Phone"
+msgstr "Téléphone"
+
+#: admin/widgets/widgets.php:185 customizer/views/basic-settings/view.php:79
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: admin/widgets/widgets.php:232
+msgid "How to get my lat & long ?"
+msgstr "Comment obtenir mon lat & long ?"
+
+#: admin/widgets/widgets.php:235
+msgid "Height"
+msgstr "Haut"
+
+#: admin/widgets/widgets.php:301
+msgid "Show poplular posts"
+msgstr "Afficher les messages de poplular"
+
+#: admin/widgets/widgets.php:371
+msgid "Display Tips in a Carousel"
+msgstr "Afficher des conseils dans un carrousel"
+
+#: admin/widgets/widgets.php:391 admin/widgets/widgets.php:517
+#: customizer/modules/basic-settings/limit-character/settings.php:25
+#: customizer/modules/homepage/featured-slider/settings.php:71
+msgid "Display"
+msgstr "Afficher"
+
+#: admin/widgets/widgets.php:393 admin/widgets/widgets.php:519
+#: customizer/modules/homepage/featured-slider/settings.php:77
+msgid "Latest Posts"
+msgstr "Derniers articles"
+
+#: admin/widgets/widgets.php:394 admin/widgets/widgets.php:520
+#: customizer/modules/category/class.category.php:17
+#: customizer/modules/homepage/featured-slider/settings.php:79
+msgid "Category"
+msgstr "Catégorie"
+
+#: admin/widgets/widgets.php:398
+msgid "Choose a category (In the case of display category): "
+msgstr "Choisissez une catégorie (dans le cas de la catégorie d'affichage) :"
+
+#: admin/widgets/widgets.php:413 admin/widgets/widgets.php:536
+msgid "There is no category"
+msgstr "Il n'y a pas de catégorie"
+
+#: admin/widgets/widgets.php:497
+msgid "Display Posts in a Carousel"
+msgstr "Afficher les messages dans un carrousel"
+
+#: admin/widgets/widgets.php:524
+msgid "Choose a category (In the case of display category):"
+msgstr "Choisissez une catégorie (dans le cas de la catégorie d'affichage) :"
+
+#: admin/widgets/widgets.php:616
+msgid "Show latest posts with thumbnail"
+msgstr "Voir les derniers posts avec vignette"
+
+#: admin/widgets/widgets.php:714
+msgid "We are recommended that your image is at least 240x160px"
+msgstr "Nous sommes recommandés que votre image est au moins 240x160px"
+
+#: admin/widgets/widgets.php:720
+msgid "Your Name"
+msgstr "Votre Nom"
+
+#: admin/widgets/widgets.php:877
+msgid "Enter Embed Code"
+msgstr "Entrer Code Embed"
+
+#: admin/widgets/widgets.php:934
+msgid "Facebook Page URL:"
+msgstr "URL de la page Facebook :"
+
+#: admin/widgets/widgets.php:936
+msgid "EG. http://www.facebook.com/envato"
+msgstr "MUTILATIONS GÉNITALES FÉMININES http://www.Facebook.com/Envato"
+
+#: admin/widgets/widgets.php:939
+msgid "Show Faces:"
+msgstr "Montrer les faces :"
+
+#: admin/widgets/widgets.php:943
+msgid "Show Stream:"
+msgstr "Show stream"
+
+#: admin/widgets/widgets.php:947
+msgid "Show Header:"
+msgstr "Afficher l’en-tête"
+
+#: admin/widgets/widgets.php:952
+msgid "Like Box height:"
+msgstr "Comme la hauteur de la boîte :"
+
+#: admin/widgets/widgets.php:1008
+msgid "Flickr ID"
+msgstr "ID Flickr"
+
+#: admin/widgets/widgets.php:1013
+msgid "Number of photos to show"
+msgstr "﻿Nombre de photos à afficher"
+
+#: admin/widgets/widgets.php:1082
+msgid "User ID - Unique id of a user to get."
+msgstr "ID de l'utilisateur - id Unique d'un utilisateur d'obtenir."
+
+#: admin/widgets/widgets.php:1084
+#, php-format
+msgid ""
+"Find User ID at <a target=\"_blank\" style=\"color:red\" href=\"%1$s"
+"\">( jelled</a> )"
+msgstr ""
+"Trouver l'ID utilisateur à <a target=\"_blank\" style=\"color:red\" href="
+"\"%1$s\">(flâner</a> )"
+
+#: admin/widgets/widgets.php:1087
+msgid "Access Token - A valid oAuth token."
+msgstr "Jeton d'accès - un jeton valide oAuth."
+
+#: admin/widgets/widgets.php:1089
+#, php-format
+msgid ""
+"How to get access token <a target=\"_blank\" style=\"color:red\" href=\"%1$s"
+"\">( jelled</a> )"
+msgstr ""
+"Comment avoir accès jeton <a target=\"_blank\" style=\"color:red\" href="
+"\"%1$s\">(flâner</a> )"
+
+#: admin/widgets/widgets.php:1092 admin/widgets/widgets.php:1440
+msgid "Limit"
+msgstr "Limite"
+
+#: admin/widgets/widgets.php:1219 admin/widgets/widgets.php:1220
+#: admin/widgets/widgets.php:1259
+msgid "Banner"
+msgstr "Bannière"
+
+#: admin/widgets/widgets.php:1262 admin/widgets/widgets.php:1432
+msgid "Title:"
+msgstr "Titre :"
+
+#: admin/widgets/widgets.php:1268
+msgid "Image:"
+msgstr "Image :"
+
+#: admin/widgets/widgets.php:1285
+msgid "Link"
+msgstr "Lien"
+
+#: admin/widgets/widgets.php:1321 admin/widgets/widgets.php:1322
+msgid "Twitter Feed"
+msgstr "Flux Twitter"
+
+#: admin/widgets/widgets.php:1378
+msgid "No Tweet"
+msgstr "Aucun Tweet"
+
+#: admin/widgets/widgets.php:1427
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/widgets/widgets.php:1436
+msgid "Username:"
+msgstr "BNom Util:"
+
+#: admin/widgets/widgets.php:1444
+msgid "Consumer Key"
+msgstr "Clé client (Consumer Key)"
+
+#: admin/widgets/widgets.php:1448
+msgid "Consumer Secret"
+msgstr "Mot de passe client"
+
+#: admin/widgets/widgets.php:1452
+msgid "Access Token"
+msgstr "Jeton d'accès (access token)"
+
+#: admin/widgets/widgets.php:1456
+msgid "Access Token Secret"
+msgstr "Mot de passe du jeton d'accès (access token)"
+
+#: admin/widgets/widgets.php:1460
+msgid ""
+"How to get twitter application : <a href='http://test.wiloke.com/creating-"
+"twitter-application/' target='_blank'>click here</a>"
+msgstr ""
+"Comment obtenir l'application twitter : <a href='http://test.wiloke.com/"
+"creating-twitter-application/' target='_blank'>cliquez ici</a>"
+
+#: admin/widgets/widgets.php:1463
+msgid "Cache Interval - minute"
+msgstr "Intervalle - en cache minute"
+
+#: admin/widgets/widgets.php:1518
+msgid "Api Key"
+msgstr "Clé API"
+
+#: admin/widgets/widgets.php:1521
+msgid "Get Lists"
+msgstr "Obtenir les listes"
+
+#: admin/widgets/widgets.php:1597 blogheading.php:89
+#: customizer/views/basic-settings/view.php:69
+#, php-format
+msgid "<p>%s</p>"
+msgstr "<p>%s</p>"
+
+#: admin/widgets/widgets.php:1601
+msgid "Enter your email..."
+msgstr "Entrez votre email"
+
+#: admin/widgets/widgets.php:1606 customizer/views/basic-settings/view.php:115
+msgid "Submit success - Bigs thank for you"
+msgstr "Enregistrer avec succès - Merci à vous"
+
+#: admin/wiloke-news/func.news.php:141
+msgid "Every 3 Hours"
+msgstr "Toutes les 3 heures"
+
+#: blogheading.php:37
+msgid "Tag Archives:"
+msgstr "Archives du mot-clé:"
+
+#: blogheading.php:41
+msgid "Search Results for: "
+msgstr "Les résultats de recherche pour :"
+
+#: blogheading.php:45
+msgid "All posts by"
+msgstr "Tous les articles par"
+
+#: blogheading.php:50
+msgid "Daily Archives:"
+msgstr "Archives quotidiennes"
+
+#: blogheading.php:53
+msgid "Monthly Archives:"
+msgstr "Archives mensuelles"
+
+#: blogheading.php:54
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: blogheading.php:56
+msgid "Yearly Archives:"
+msgstr "Archives annuelles"
+
+#: blogheading.php:57
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: blogheading.php:59
+msgid "Archives"
+msgstr "Archives"
+
+#: comments.php:4
+msgid "Post is password protected. Enter the password to view any comments."
+msgstr ""
+"L’article est protégé par un mot de passe. Veuillez entrez le mot de passe "
+"pour voir les commentaires."
+
+#: comments.php:18
+msgid "Comments are closed here."
+msgstr "Les commentaires sont ferm&eacute;s."
+
+#: comments.php:32
+msgid "<h3 class=\"h5 text-uppercase\">LEAVE A COMMENT</h3>"
+msgstr "Laisser un commentaire"
+
+#: comments.php:40
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Connecté en tant que <a href=« %1$s »>%2$s</a>. <a href=« %3$s » title=”Se "
+"déconnecter de ce compte”>Se déconnecter ?</a>"
+
+#: customizer/modules/archive/class.archive.php:17
+msgid "Archive"
+msgstr "Archive"
+
+#: customizer/modules/archive/layout/settings.php:7
+#: customizer/modules/author/layout/settings.php:7
+#: customizer/modules/category/layout/settings.php:6
+#: customizer/modules/search/layout/settings.php:7
+#: customizer/modules/tag/layout/settings.php:7
+msgid "Layout"
+msgstr "Disposition"
+
+#: customizer/modules/archive/layout/settings.php:23
+#: customizer/modules/author/layout/settings.php:23
+#: customizer/modules/category/layout/settings.php:22
+#: customizer/modules/search/layout/settings.php:23
+#: customizer/modules/tag/layout/settings.php:23
+msgid "Choose layout"
+msgstr "Choisir mise en page"
+
+#: customizer/modules/basic-settings/class.basic-settings.php:56
+msgid "General Settings"
+msgstr "Paramètres généraux"
+
+#: customizer/modules/basic-settings/limit-character/settings.php:6
+msgid "Limit Character"
+msgstr "Limite de caractères"
+
+#: customizer/modules/basic-settings/limit-character/settings.php:8
+msgid ""
+"Note: Limit Character is available if you are using <strong>Post Content</"
+"strong>, set 0 to no limited content."
+msgstr ""
+"Remarque : La caractère de limite est disponible si vous utilisez <strong>Un "
+"contenu Post</strong>, aucun contenu limité la valeur 0."
+
+#: customizer/modules/basic-settings/limit-character/settings.php:31
+msgid "Post Content"
+msgstr "Contenu de l’article"
+
+#: customizer/modules/basic-settings/limit-character/settings.php:32
+msgid "Post Excerpts"
+msgstr "Afficher les extraits des articles"
+
+#: customizer/modules/basic-settings/limit-character/settings.php:49
+msgid "Limit Content"
+msgstr "Limiter le contenu"
+
+#: customizer/modules/basic-settings/main-color/settings.php:6
+msgid "Main Color"
+msgstr "Couleur principale"
+
+#: customizer/modules/basic-settings/main-color/settings.php:36
+msgid "Choose Color"
+msgstr "Choisir Couleur de stylo"
+
+#: customizer/modules/basic-settings/main-color/settings.php:57
+msgid "Custom Color"
+msgstr "Couleur personnalisée"
+
+#: customizer/modules/basic-settings/pagination/settings.php:6
+msgid "Pagination Style"
+msgstr "Style de pagination"
+
+#: customizer/modules/basic-settings/pagination/settings.php:25
+msgid "Choose Style"
+msgstr "Choisissez un style"
+
+#: customizer/modules/basic-settings/posts-per-page/settings.php:6
+#: customizer/modules/basic-settings/posts-per-page/settings.php:24
+msgid "Posts Per Page"
+msgstr "Articles par page"
+
+#: customizer/modules/basic-settings/rtl/settings.php:6
+msgid "Right To Left"
+msgstr "Droite à gauche"
+
+#: customizer/modules/basic-settings/search/settings.php:6
+msgid "Above Main Content"
+msgstr "﻿Au-dessus du contenu"
+
+#: customizer/modules/basic-settings/search/settings.php:23
+msgid "Using"
+msgstr "Utilisation"
+
+#: customizer/modules/basic-settings/search/settings.php:90
+msgid "Placeholder"
+msgstr "Etiquette"
+
+#: customizer/modules/basic-settings/search/settings.php:116
+#, php-format
+msgid ""
+"Note: If you want to use mailchimp, please click <a href=\"%s\" target="
+"\"_blank\">here</a> to config mailchimp"
+msgstr ""
+"Remarque : Si vous souhaitez utiliser mailchimp, veuillez cliquer <a href="
+"\"%s\" target=\"_blank\">ici</a> pour config mailchimp"
+
+#: customizer/modules/basic-settings/white-box/settings.php:6
+msgid "White Box"
+msgstr "approche boîte blanche"
+
+#: customizer/modules/footer/class.footer.php:33
+msgid "Footer"
+msgstr "Pied de page"
+
+#: customizer/modules/footer/copyright/settings.php:7
+#: customizer/modules/footer/copyright/settings.php:42
+#: customizer/modules/footer/copyright/settings.php:61
+msgid "Copyright"
+msgstr "Copyright"
+
+#: customizer/modules/footer/custom-js/settings.php:6
+#: customizer/modules/header/custom-js/settings.php:3
+msgid "Custom js"
+msgstr "JavaScript personnalisé"
+
+#: customizer/modules/footer/custom-js/settings.php:25
+#: customizer/modules/header/custom-js/settings.php:22
+msgid "Custom JS"
+msgstr "Personnaliser le JavaScript"
+
+#: customizer/modules/footer/custom-js/settings.php:30
+#: customizer/modules/header/custom-css/settings.php:30
+#: customizer/modules/header/custom-js/settings.php:27
+msgid "Expand"
+msgstr "De plus…"
+
+#: customizer/modules/footer/sidebar/settings.php:7
+msgid "Footer Widget"
+msgstr "Widget Pied de page"
+
+#: customizer/modules/footer/sidebar/settings.php:29
+msgid "Number Of Widget"
+msgstr "Nombre de Widget"
+
+#: customizer/modules/footer/social/settings.php:5
+msgid "Social"
+msgstr "Social"
+
+#: customizer/modules/header/class.header.php:20
+msgid "Header"
+msgstr "Entête"
+
+#: customizer/modules/header/custom-code/settings.php:6
+msgid "Custom Code"
+msgstr "Code personnalisé"
+
+#: customizer/modules/header/custom-css/settings.php:6
+#: customizer/modules/header/custom-css/settings.php:25
+msgid "Custom Css"
+msgstr "CSS personnalisée"
+
+#: customizer/modules/header/favicon/settings.php:4
+msgid "Favicon"
+msgstr "Favicon"
+
+#: customizer/modules/header/headerimage/settings.php:51
+msgid "Upload Image"
+msgstr "Télécharger une image"
+
+#: customizer/modules/header/headerimage/settings.php:73
+msgid ""
+" Header image is used in archives, search, author, categories, singular "
+"page. Each category/post/page page can overide this image. We recommend a "
+"header size of  1280x385px."
+msgstr ""
+"Image d'en-tête est utilisé dans la recherche, auteur, catégories, archives, "
+"page du singulier. Chaque page de catégorie/post/page peut contourner cette "
+"image. Nous vous recommandons une taille de l'entête de 1280x385px."
+
+#: customizer/modules/header/logo/settings.php:6
+msgid "Logo"
+msgstr "Logo"
+
+#: customizer/modules/header/logo/settings.php:50
+msgid "Upload Logo"
+msgstr "Télécharger"
+
+#: customizer/modules/header/logo/settings.php:72
+msgid "Upload Retina Logo"
+msgstr "Télécharger votre logo retina"
+
+#: customizer/modules/homepage/class.homepage.php:17
+msgid "Content"
+msgstr "Contenu"
+
+#: customizer/modules/homepage/featured-slider/settings.php:5
+msgid "Featured Slider"
+msgstr "Diaporama à la une"
+
+#: customizer/modules/homepage/featured-slider/settings.php:26
+msgid ""
+"Note: The featured slider is avaibale for masonry/listing/standard layout"
+msgstr ""
+"Remarque : Le curseur recommandé est avaibale pour la mise en maçonnerie/"
+"inscription/standard"
+
+#: customizer/modules/homepage/featured-slider/settings.php:78
+msgid "Sticky Posts"
+msgstr "Articles mis en avant"
+
+#: customizer/modules/homepage/featured-slider/settings.php:101
+#: customizer/modules/homepage/layout/settings.php:90
+msgid "Choose Category"
+msgstr "Choisir une catégorie"
+
+#: customizer/modules/homepage/featured-slider/settings.php:148
+msgid ""
+"Note: Check this box if you  want to the featured slider to be show in "
+"homepage. Note that this function is avaibale if you are using masonry or "
+"listing layout (Home->Layout)"
+msgstr ""
+"Note : Cochez cette case si vous voulez le curseur recommandé pour être "
+"afficher dans la page d'accueil. Notez que cette fonction est avaibale si "
+"vous êtes à l'aide de maçonnerie ou de liste mise en page (page d'accueil-> "
+"mise en page)"
+
+#: customizer/modules/homepage/featured-slider/settings.php:168
+msgid "Exclude Featured Posts"
+msgstr "Exclure les articles à la une"
+
+#: customizer/modules/homepage/featured-slider/settings.php:196
+msgid ""
+"Note: Check this box if you want the posts are shown in the featured slider "
+"will not be included in the content area"
+msgstr ""
+"Note : Cochez cette case si vous souhaitez que les messages sont affichés "
+"dans le slider recommandé ne figureront pas dans la zone de contenu"
+
+#: customizer/modules/homepage/gridrotator-settings/settings.php:6
+msgid "Grid Rotator Settings"
+msgstr "Paramètres de la grille Rotator"
+
+#: customizer/modules/homepage/gridrotator-settings/settings.php:23
+msgid "Number Of Rows For Screen Larger Than 1400px"
+msgstr "Nombre de lignes d'écran supérieure à 1400px"
+
+#: customizer/modules/homepage/gridrotator-settings/settings.php:42
+msgid "Number Of Rows For Screen Larger Than 1024px"
+msgstr "Nombre de lignes pour écran plus grand que 1024px"
+
+#: customizer/modules/homepage/layout/settings.php:7
+msgid "Main Content"
+msgstr "Main Content"
+
+#: customizer/modules/homepage/layout/settings.php:31
+msgid "Choose Layout"
+msgstr "Choisir la mise en page"
+
+#: customizer/modules/homepage/layout/settings.php:54
+msgid "Get Posts From"
+msgstr "﻿Obtenir des messages de"
+
+#: customizer/modules/homepage/map/settings.php:6
+msgid "Map Settings"
+msgstr "Paramètres de la carte"
+
+#: customizer/modules/homepage/map/settings.php:23
+msgid "Sidebar Title"
+msgstr "Police de titre de barre latérale"
+
+#: customizer/modules/homepage/map/settings.php:42
+msgid "Style For Map"
+msgstr "Style de carte"
+
+#: customizer/modules/other/popup/popup.php:6
+msgid "Popup"
+msgstr "Boîte de dialogue"
+
+#: customizer/modules/search/class.search.php:17 searchform.php:7
+msgid "Search"
+msgstr "Rechercher"
+
+#: customizer/modules/sidebar/class.sidebar.php:17
+#: customizer/modules/sidebar/position/settings.php:5
+msgid "Sidebar"
+msgstr "Barre Latérale"
+
+#: customizer/modules/sidebar/position/settings.php:20
+msgid "Position"
+msgstr "Position"
+
+#: customizer/modules/sidebar/position/settings.php:26
+msgid "Right"
+msgstr "Droite"
+
+#: customizer/modules/sidebar/position/settings.php:27
+msgid "Left"
+msgstr "Gauche"
+
+#: customizer/modules/sidebar/position/settings.php:28
+msgid "No Sidebar"
+msgstr "Pas de barre latérale de la page"
+
+#: customizer/modules/singular/class.singular.php:17
+msgid "Singular"
+msgstr "Singulier"
+
+#: customizer/modules/singular/class.singular.php:18
+msgid "Post,Page and Attachment page Settings."
+msgstr "Post, Page et attachement paramètres de page."
+
+#: customizer/modules/singular/next-prev/settings.php:5
+msgid "Next & Prev Post Link"
+msgstr "Prochaine & lien Post précédent"
+
+#: customizer/modules/singular/post-author/settings.php:5
+msgid "Post Author"
+msgstr "Auteur de l’article"
+
+#: customizer/modules/singular/related-posts/settings.php:5
+msgid "Related Posts"
+msgstr "Articles similaires"
+
+#: customizer/modules/singular/related-posts/settings.php:87
+msgid "Get by"
+msgstr "faire face"
+
+#: customizer/modules/singular/sharing-box/settings.php:6
+msgid "Sharing Box"
+msgstr "Contrôle la couleur de fond de l'encadré de partage."
+
+#: customizer/modules/tag/class.tag.php:17
+msgid "Tag"
+msgstr "Mots clés"
+
+#: customizer/views/basic-settings/view.php:60
+#, php-format
+msgid "<h2>%s</h2>"
+msgstr "<h2>%s</h2>"
+
+#: customizer/views/basic-settings/view.php:358
+msgid "Posts tagged"
+msgstr "Articles marqués"
+
+#: customizer/views/basic-settings/view.php:363
+msgid "Articles posted by"
+msgstr "Articles publiés par"
+
+#: customizer/views/basic-settings/view.php:366
+msgid "Error 404"
+msgstr ""
+"Oops ! Qu'avez-vous avez fait ? Erreur 404 ! Nous vous invitons à revenir "
+"sur la page d'accueil"
+
+#: customizer/views/basic-settings/view.php:419
+msgid "« Previous"
+msgstr "« Précédent"
+
+#: customizer/views/basic-settings/view.php:420
+msgid "Next »"
+msgstr "Suivant »"
+
+#: customizer/views/basic-settings/view.php:434
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr "<i class = \"fa fa-angle gauche \"> </ i>"
+
+#: customizer/views/basic-settings/view.php:435
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr "<i class = \"fa fa-angle-droit \"> </ i>"
+
+#: customizer/views/singular/view.php:34
+msgid "Older post"
+msgstr "Messages plus ancien"
+
+#: customizer/views/singular/view.php:49
+msgid "Newer post"
+msgstr "Message plus récent"
+
+#: functions.php:590
+msgid "Continue reading..."
+msgstr "Lire la suite..."
+
+#: functions.php:828
+msgid "Pingback:"
+msgstr "Rétrolien :"
+
+#: functions.php:828
+msgid "(Edit)"
+msgstr "(Editer)"
+
+#: functions.php:871
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: functions.php:878
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: functions.php:882
+msgid "Edit"
+msgstr "Modifier"
+
+#: functions.php:883
+msgid "Reply"
+msgstr "Répondre"
+
+#: functions.php:933
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: functions.php:949
+msgid "Comment navigation"
+msgstr "Commenter"
+
+#: functions.php:952
+msgid "Older Comments"
+msgstr "Anciens commentaires"
+
+#: functions.php:956
+msgid "Newer Comments"
+msgstr "Nouveaux commentaires"
+
+#: layout/gridrotator.php:42
+msgid "More Destinations"
+msgstr "Plus de destinations"
+
+#: no-content.php:5
+msgid ""
+"<h4 class=\"text-center\">Sorry, but nothing matched your search terms. "
+"Please try again with different keywords.</h4>"
+msgstr ""
+"Désolé, mais rien ne correspondait à vos termes de recherche. S’il vous "
+"plaît essayer de nouveau avec des mots clés différents."
+
+#: no-content.php:7
+msgid ""
+"<h4 class=\"text-center\">It seems we can&rsquo;t find what you&rsquo;re "
+"looking for. Perhaps searching can help</h4>"
+msgstr ""
+"La page que vous recherchez n'est plus disponible. Merci de vous rediriger "
+"vers l'accueil du site ou d'utiliser notre barre de recherche."
+
+#: wiloke/basic-settings/preloader/settings.php:3
+msgid "Preloader"
+msgstr "Préchargeur"
+
+#: wiloke/basic-settings/preloader/view.php:21
+msgid "Loading"
+msgstr "Chargement"
+
+#. Theme Name of the plugin/theme
+msgid "Your Journey"
+msgstr "Votre voyage"
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/wiloke"
+msgstr "http://ThemeForest.net/user/wiloke"
+
+#. Description of the plugin/theme
+msgid "A Elegant Wordpress Theme For Travel"
+msgstr "Un élégant thème Wordpress pour les voyages"
+
+#. Author of the plugin/theme
+msgid "wiloke"
+msgstr "wiloke"

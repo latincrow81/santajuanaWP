@@ -1,0 +1,84 @@
+<?php
+/** 
+ * Configuración básica de WordPress.
+ *
+ * Este archivo contiene las siguientes configuraciones: ajustes de MySQL, prefijo de tablas,
+ * claves secretas, idioma de WordPress y ABSPATH. Para obtener más información,
+ * visita la página del Codex{@link http://codex.wordpress.org/Editing_wp-config.php Editing
+ * wp-config.php} . Los ajustes de MySQL te los proporcionará tu proveedor de alojamiento web.
+ *
+ * This file is used by the wp-config.php creation script during the
+ * installation. You don't have to use the web site, you can just copy this file
+ * to "wp-config.php" and fill in the values.
+ *
+ * @package WordPress
+ */
+
+// ** Ajustes de MySQL. Solicita estos datos a tu proveedor de alojamiento web. ** //
+/** El nombre de tu base de datos de WordPress */
+define('DB_NAME', 'santajua_nwp');
+
+/** Tu nombre de usuario de MySQL */
+define('DB_USER', 'santajua_wp');
+
+/** Tu contraseña de MySQL */
+define('DB_PASSWORD', 'Profits123!');
+
+/** Host de MySQL (es muy probable que no necesites cambiarlo) */
+define('DB_HOST', 'localhost');
+
+/** Codificación de caracteres para la base de datos. */
+define('DB_CHARSET', 'utf8mb4');
+
+/** Cotejamiento de la base de datos. No lo modifiques si tienes dudas. */
+define('DB_COLLATE', '');
+
+/**#@+
+ * Claves únicas de autentificación.
+ *
+ * Define cada clave secreta con una frase aleatoria distinta.
+ * Puedes generarlas usando el {@link https://api.wordpress.org/secret-key/1.1/salt/ servicio de claves secretas de WordPress}
+ * Puedes cambiar las claves en cualquier momento para invalidar todas las cookies existentes. Esto forzará a todos los usuarios a volver a hacer login.
+ *
+ * @since 2.6.0
+ */
+define('AUTH_KEY', '`A}FvQ%9:4.&a Hm78eN(Z-.oo0|ubI=hvB5oGa*g0ZL}w$YZ(e/zX-eTo8P|pB^');
+define('SECURE_AUTH_KEY', '#G#HFIMiABN>]W[?r8W3S0$ &, {uj,Q)REU[VT:Woi7tHpt9jn!qC/lw(m4L,0?');
+define('LOGGED_IN_KEY', '-Z )w1FG:Q]IP?9u5O&hwevCdGL2%!q2hiKt_rh/`S*JT;^K569F|lE^*j7AaZVH');
+define('NONCE_KEY', '(A3E.mSIHoFD@QAUu3+G=O>*|SLQ1L%O:)gr8M5k{X:}Ff^g>xfJG$q<iAyWr3<,');
+define('AUTH_SALT', 'X=_m7!djxr[[A+K2 IF&@D*/-Qy`Hz/^sWFdp^4$smlcc-Ux[*O%=>T.U%q9FI^w');
+define('SECURE_AUTH_SALT', 'o#P^4#ix(+zz{v7?<$:pW)z:E`qMp!nV9X%Xpy|sq=& qlA;r89AJnz39+t`FU(U');
+define('LOGGED_IN_SALT', '5Hm-^!`?3C* /C#L2D10gic_G^6 )Qf;5;4%hF/J)Ku 3OXqX~uPI=~0)y{D@p5 ');
+define('NONCE_SALT', 'B{)Q@8#o}P/M%[}<HNgOr#&T:afrc~<2=m7:$Dot-H0s&{d1U]2uMo?C]h?LI,FK');
+
+/**#@-*/
+
+/**
+ * Prefijo de la base de datos de WordPress.
+ *
+ * Cambia el prefijo si deseas instalar multiples blogs en una sola base de datos.
+ * Emplea solo números, letras y guión bajo.
+ */
+$table_prefix  = 'wp_';
+
+
+/**
+ * Para desarrolladores: modo debug de WordPress.
+ *
+ * Cambia esto a true para activar la muestra de avisos durante el desarrollo.
+ * Se recomienda encarecidamente a los desarrolladores de temas y plugins que usen WP_DEBUG
+ * en sus entornos de desarrollo.
+ */
+define('WP_DEBUG', false);
+
+/* ¡Eso es todo, deja de editar! Feliz blogging */
+
+/** WordPress absolute path to the Wordpress directory. */
+if ( !defined('ABSPATH') )
+	define('ABSPATH', dirname(__FILE__) . '/');
+
+/** Sets up WordPress vars and included files. */
+require_once(ABSPATH . 'wp-settings.php');
+
+# Disables all core updates. Added by SiteGround Autoupdate:
+define( 'WP_AUTO_UPDATE_CORE', false );

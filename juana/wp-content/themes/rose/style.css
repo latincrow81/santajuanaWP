@@ -1,0 +1,27 @@
+/*
+Theme Name: Rose
+Theme URI: http://wiloke.net/landing/rose/
+Author: wiloke
+Author URI: http://wiloke.net/
+Description: Rose - Minimal Portfolio WordPress Theme
+Version: 1.4
+License: GNU General Public License v2 or later
+Text Domain: rose
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+.bg-top{
+    background-position: top center;
+}
+
+.bg-bottom{
+    background-position: bottom center;
+}
+
+.bg-center{
+    background-position: center center;
+}
+
+.centered{
+	text-align: center;
+}

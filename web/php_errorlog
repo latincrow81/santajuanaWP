@@ -1,0 +1,10 @@
+[03-Jun-2015 15:13:53 America/Chicago] PHP Fatal error:  Call to a member function getNombreCompleto() on a non-object in /home/santajua/src/AppBundle/Controller/DefaultController.php on line 74
+[03-Jun-2015 15:14:11 America/Chicago] PHP Fatal error:  Call to a member function getNombreCompleto() on a non-object in /home/santajua/src/AppBundle/Controller/DefaultController.php on line 74
+[05-Jun-2015 15:39:19 America/Chicago] PHP Fatal error:  Call to undefined function http_redirect() in /home/santajua/public_html/web/list.php on line 147
+[02-Oct-2015 17:31:10 CST6CDT] PHP Fatal error:  Class 'AppBundle\Controller\editarCliente' not found in /home/santajua/src/AppBundle/Controller/DefaultController.php on line 316
+[02-Oct-2015 17:41:07 CST6CDT] PHP Fatal error:  Class 'AppBundle\Controller\editarCliente' not found in /home/santajua/src/AppBundle/Controller/DefaultController.php on line 318
+[04-Oct-2015 09:28:41 CST6CDT] PHP Fatal error:  Class 'AppBundle\Controller\Edicion' not found in /home/santajua/src/AppBundle/Controller/DefaultController.php on line 327
+[04-Oct-2015 09:28:59 CST6CDT] PHP Fatal error:  Class 'AppBundle\Controller\Edicion' not found in /home/santajua/src/AppBundle/Controller/DefaultController.php on line 327
+[04-Oct-2015 09:30:36 CST6CDT] PHP Fatal error:  Call to undefined method FOS\UserBundle\Doctrine\UserManager::findUserByCedula() in /home/santajua/src/AppBundle/Controller/DefaultController.php on line 415
+[04-Oct-2015 10:58:21 CST6CDT] PHP Parse error:  syntax error, unexpected 'add' (T_STRING) in /home/santajua/src/AppBundle/Form/registroCliente.php on line 19
+[04-Oct-2015 11:12:18 CST6CDT] PHP Parse error:  syntax error, unexpected ',' in /home/santajua/src/AppBundle/Form/registroCliente.php on line 15

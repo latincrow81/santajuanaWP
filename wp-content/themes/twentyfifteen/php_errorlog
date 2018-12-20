@@ -1,0 +1,5 @@
+[09-Feb-2018 04:16:35 CST6CDT] PHP Fatal error:  Call to undefined function do_action() in /home/santajua/public_html/wp-content/themes/twentyfifteen/footer.php on line 23
+[09-Feb-2018 04:16:36 CST6CDT] PHP Fatal error:  Call to undefined function do_action() in /home/santajua/public_html/wp-content/themes/twentyfifteen/footer.php on line 23
+[11-Feb-2018 02:13:49 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/santajua/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[27-Jun-2018 19:55:54 CST6CDT] PHP Fatal error:  Call to undefined function the_ID() in /home/santajua/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[28-Jun-2018 01:19:14 CST6CDT] PHP Fatal error:  Call to undefined function the_ID() in /home/santajua/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13

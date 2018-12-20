@@ -1,0 +1,9 @@
+[05-Aug-2017 23:23:12 CST6CDT] PHP Fatal error:  Call to undefined function get_template_part() in /home/santajua/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[06-Aug-2017 23:00:32 CST6CDT] PHP Fatal error:  Call to undefined function get_template_part() in /home/santajua/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[06-Aug-2017 23:00:42 CST6CDT] PHP Fatal error:  Call to undefined function get_template_part() in /home/santajua/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[28-Sep-2017 20:01:22 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/santajua/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[26-Nov-2017 04:33:35 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/santajua/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[10-Jan-2018 22:00:20 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/santajua/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[13-Feb-2018 13:02:27 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/santajua/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[14-Jun-2018 03:15:53 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/santajua/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[30-Jul-2018 04:53:23 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/santajua/public_html/wp-content/themes/twentyseventeen/404.php on line 13

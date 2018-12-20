@@ -1,0 +1,869 @@
+# Copyright (C) 2018 Latest Post Shortcode
+# This file is distributed under the same license as the Latest Post Shortcode package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Latest Post Shortcode 8.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/latest-post-"
+"shortcode\n"
+"POT-Creation-Date: 2018-07-18 18:28+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 2.0.9\n"
+
+#: latest-post-shortcode.php:157
+msgid ""
+"The Latest Post Shortcode Slider Extension is no longer supported, and it "
+"has been deactivated. If you need to display posts as a slider you can find "
+"the settings integrated in the Latest Post Shortcode plugin"
+msgstr ""
+
+#: latest-post-shortcode.php:193
+msgid "Date Descending"
+msgstr ""
+
+#: latest-post-shortcode.php:198
+msgid "Date Ascending"
+msgstr ""
+
+#: latest-post-shortcode.php:203
+msgid "Menu Order Descending"
+msgstr ""
+
+#: latest-post-shortcode.php:208
+msgid "Menu Order Ascending"
+msgstr ""
+
+#: latest-post-shortcode.php:213
+msgid "Title Descending"
+msgstr ""
+
+#: latest-post-shortcode.php:218
+msgid "Title Ascending"
+msgstr ""
+
+#: latest-post-shortcode.php:223
+msgid "Random *"
+msgstr ""
+
+#: latest-post-shortcode.php:230
+msgid "before title"
+msgstr ""
+
+#: latest-post-shortcode.php:231
+msgid "after title"
+msgstr ""
+
+#: latest-post-shortcode.php:232
+msgid "before image"
+msgstr ""
+
+#: latest-post-shortcode.php:233
+msgid "after image"
+msgstr ""
+
+#: latest-post-shortcode.php:234
+msgid "before text"
+msgstr ""
+
+#: latest-post-shortcode.php:235
+msgid "after text"
+msgstr ""
+
+#: latest-post-shortcode.php:236
+msgid "before read more text"
+msgstr ""
+
+#: latest-post-shortcode.php:237
+msgid "after read more text"
+msgstr ""
+
+#: latest-post-shortcode.php:238
+msgid "before date"
+msgstr ""
+
+#: latest-post-shortcode.php:239
+msgid "after date"
+msgstr ""
+
+#: latest-post-shortcode.php:425
+msgid "Title"
+msgstr ""
+
+#: latest-post-shortcode.php:426
+msgid "Title + Post Excerpt"
+msgstr ""
+
+#: latest-post-shortcode.php:427
+msgid "Title + Post Content"
+msgstr ""
+
+#: latest-post-shortcode.php:428
+msgid "Title + Few Chars From The Excerpt"
+msgstr ""
+
+#: latest-post-shortcode.php:429
+msgid "Title + Few Chars From The Content"
+msgstr ""
+
+#: latest-post-shortcode.php:430
+msgid "Date"
+msgstr ""
+
+#: latest-post-shortcode.php:431
+msgid "Title + Date"
+msgstr ""
+
+#: latest-post-shortcode.php:432
+msgid "Title + Date + Post Excerpt"
+msgstr ""
+
+#: latest-post-shortcode.php:433
+msgid "Title + Date + Post Content"
+msgstr ""
+
+#: latest-post-shortcode.php:434
+msgid "Title + Date + Few Chars From The Excerpt"
+msgstr ""
+
+#: latest-post-shortcode.php:435
+msgid "Title + Date + Few Chars From The Content"
+msgstr ""
+
+#: latest-post-shortcode.php:436
+msgid "Date + Title"
+msgstr ""
+
+#: latest-post-shortcode.php:437
+msgid "Date + Title + Post Excerpt"
+msgstr ""
+
+#: latest-post-shortcode.php:438
+msgid "Date + Title + Post Content"
+msgstr ""
+
+#: latest-post-shortcode.php:439
+msgid "Date + Title + Few Chars From The Excerpt"
+msgstr ""
+
+#: latest-post-shortcode.php:440
+msgid "Date + Title + Few Chars From The Content"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: latest-post-shortcode.php:454
+msgid "Latest Post Shortcode"
+msgstr ""
+
+#: latest-post-shortcode.php:458
+msgid "Embed Shortcode"
+msgstr ""
+
+#: latest-post-shortcode.php:459
+msgid "Preview"
+msgstr ""
+
+#: latest-post-shortcode.php:465
+msgid "Settings"
+msgstr ""
+
+#: latest-post-shortcode.php:467 latest-post-shortcode.php:478
+msgid "Output Type"
+msgstr ""
+
+#: latest-post-shortcode.php:468 latest-post-shortcode.php:503
+msgid "Content & Filters"
+msgstr ""
+
+#: latest-post-shortcode.php:469 latest-post-shortcode.php:668
+msgid "Limit & Pagination"
+msgstr ""
+
+#: latest-post-shortcode.php:470 latest-post-shortcode.php:756
+msgid "Display Settings"
+msgstr ""
+
+#: latest-post-shortcode.php:471 latest-post-shortcode.php:880
+msgid "Extra Options"
+msgstr ""
+
+#: latest-post-shortcode.php:484
+msgid "Display as"
+msgstr ""
+
+#: latest-post-shortcode.php:492
+msgid "post grid/list/tiles"
+msgstr ""
+
+#: latest-post-shortcode.php:493 latest-post-shortcode.php:1106
+msgid "slider"
+msgstr ""
+
+#: latest-post-shortcode.php:505
+msgid "Post Types, Status & Order"
+msgstr ""
+
+#: latest-post-shortcode.php:508
+msgid "Post Type"
+msgstr ""
+
+#: latest-post-shortcode.php:511 latest-post-shortcode.php:556
+msgid "Any"
+msgstr ""
+
+#: latest-post-shortcode.php:524
+msgid "Post Status"
+msgstr ""
+
+#: latest-post-shortcode.php:536
+msgid "Order by"
+msgstr ""
+
+#: latest-post-shortcode.php:543
+msgid ""
+"* Please note that ordering the items by random might present performance "
+"risks, please use this careful."
+msgstr ""
+
+#: latest-post-shortcode.php:543
+msgid ""
+"Also, using a random order and pagination will output unexpected and "
+"potentially redundant content."
+msgstr ""
+
+#: latest-post-shortcode.php:550
+msgid "Filter By Taxonomy"
+msgstr ""
+
+#: latest-post-shortcode.php:553
+msgid "Taxonomy"
+msgstr ""
+
+#: latest-post-shortcode.php:567
+msgid "Term"
+msgstr ""
+
+#: latest-post-shortcode.php:569
+msgid "Term slug (ex: news)"
+msgstr ""
+
+#: latest-post-shortcode.php:576
+msgid "Filter By Tag"
+msgstr ""
+
+#: latest-post-shortcode.php:579
+msgid "Tag"
+msgstr ""
+
+#: latest-post-shortcode.php:583 latest-post-shortcode.php:627
+msgid "Dynamic"
+msgstr ""
+
+#: latest-post-shortcode.php:586
+msgid "No, use the selected ones"
+msgstr ""
+
+#: latest-post-shortcode.php:587
+msgid "Yes, use the current post tags"
+msgstr ""
+
+#: latest-post-shortcode.php:595
+msgid "Filter By Specific IDs"
+msgstr ""
+
+#: latest-post-shortcode.php:598
+msgid "Post ID"
+msgstr ""
+
+#: latest-post-shortcode.php:600 latest-post-shortcode.php:605
+#: latest-post-shortcode.php:611 latest-post-shortcode.php:636
+#: latest-post-shortcode.php:643
+msgid "Separate IDs with comma"
+msgstr ""
+
+#: latest-post-shortcode.php:600
+msgid "Show only objects with the selected IDs."
+msgstr ""
+
+#: latest-post-shortcode.php:603
+msgid "Parent ID"
+msgstr ""
+
+#: latest-post-shortcode.php:605
+msgid "Show only objects with the selected parents."
+msgstr ""
+
+#: latest-post-shortcode.php:609
+msgid "Author ID"
+msgstr ""
+
+#: latest-post-shortcode.php:611
+msgid "Show only objects with the selected author IDs."
+msgstr ""
+
+#: latest-post-shortcode.php:618
+msgid "Exclude Content"
+msgstr ""
+
+#: latest-post-shortcode.php:621
+msgid "Current"
+msgstr ""
+
+#: latest-post-shortcode.php:623
+msgid "the current post"
+msgstr ""
+
+#: latest-post-shortcode.php:629
+msgid "previous shortcodes*"
+msgstr ""
+
+#: latest-post-shortcode.php:630
+msgid ""
+"* The exclude content dynamic option will filter the content so that the "
+"posts that were already embedded by previous shortcodes on this page will "
+"not show up (so that the content does not repeat)."
+msgstr ""
+
+#: latest-post-shortcode.php:634
+msgid "By Post ID"
+msgstr ""
+
+#: latest-post-shortcode.php:637
+msgid "Exclude the objects with the selected IDs."
+msgstr ""
+
+#: latest-post-shortcode.php:641
+msgid "By Author ID"
+msgstr ""
+
+#: latest-post-shortcode.php:644
+msgid "Exclude the objects with the selected author IDs."
+msgstr ""
+
+#: latest-post-shortcode.php:649
+msgid "By Tags"
+msgstr ""
+
+#: latest-post-shortcode.php:651 latest-post-shortcode.php:659
+msgid "Separate slugs with comma"
+msgstr ""
+
+#: latest-post-shortcode.php:652
+msgid "Exclude the objects with the selected tags."
+msgstr ""
+
+#: latest-post-shortcode.php:657
+msgid "By Categories"
+msgstr ""
+
+#: latest-post-shortcode.php:660
+msgid "Exclude the objects with the selected categories."
+msgstr ""
+
+#: latest-post-shortcode.php:671
+msgid "Posts Limit"
+msgstr ""
+
+#: latest-post-shortcode.php:674
+msgid "Number of Posts"
+msgstr ""
+
+#: latest-post-shortcode.php:677
+msgid ""
+"This is the maximum number of posts the shortcode will expose. However, if "
+"you are using pagination, the number of posts does not apply, it will be "
+"overwritten by the number of records per page."
+msgstr ""
+
+#: latest-post-shortcode.php:684
+msgid "Pagination Settings"
+msgstr ""
+
+#: latest-post-shortcode.php:688
+msgid "Use Pagination"
+msgstr ""
+
+#: latest-post-shortcode.php:691
+msgid "No"
+msgstr ""
+
+#: latest-post-shortcode.php:692
+msgid "Yes, paginate results"
+msgstr ""
+
+#: latest-post-shortcode.php:701
+msgid "Records Per Page"
+msgstr ""
+
+#: latest-post-shortcode.php:707
+msgid "Offset"
+msgstr ""
+
+#: latest-post-shortcode.php:713
+msgid "Visibility"
+msgstr ""
+
+#: latest-post-shortcode.php:716
+msgid "Hide Navigation"
+msgstr ""
+
+#: latest-post-shortcode.php:717
+msgid "Show Navigation (range of 4)"
+msgstr ""
+
+#: latest-post-shortcode.php:718
+msgid "Show Navigation (range of 5)"
+msgstr ""
+
+#: latest-post-shortcode.php:719
+msgid "Show Navigation (range of 10)"
+msgstr ""
+
+#: latest-post-shortcode.php:724
+msgid "Position"
+msgstr ""
+
+#: latest-post-shortcode.php:727
+msgid "Above the results"
+msgstr ""
+
+#: latest-post-shortcode.php:728
+msgid "Below the results"
+msgstr ""
+
+#: latest-post-shortcode.php:729
+msgid "Above & below the result"
+msgstr ""
+
+#: latest-post-shortcode.php:734
+msgid "AJAX Pagination"
+msgstr ""
+
+#: latest-post-shortcode.php:736 latest-post-shortcode.php:987
+#: latest-post-shortcode.php:1064 latest-post-shortcode.php:1073
+#: latest-post-shortcode.php:1082 latest-post-shortcode.php:1091
+#: latest-post-shortcode.php:1140 latest-post-shortcode.php:1149
+#: latest-post-shortcode.php:1180 latest-post-shortcode.php:1189
+msgid "yes"
+msgstr ""
+
+#: latest-post-shortcode.php:740
+msgid "Pagination Style"
+msgstr ""
+
+#: latest-post-shortcode.php:742
+msgid "all pagination elements"
+msgstr ""
+
+#: latest-post-shortcode.php:743
+msgid ""
+"Tick this option if you need to display the pagination elements all the "
+"time, including the disabled elements like: go to first, previous, next, and "
+"last page, even if these are disabled."
+msgstr ""
+
+#: latest-post-shortcode.php:750
+msgid ""
+"The pagination is not available for sliders, only for list/tiles output."
+msgstr ""
+
+#: latest-post-shortcode.php:764
+msgid "Post Appearance"
+msgstr ""
+
+#: latest-post-shortcode.php:768
+msgid "Display Post"
+msgstr ""
+
+#: latest-post-shortcode.php:790
+msgid "Chars Limit"
+msgstr ""
+
+#: latest-post-shortcode.php:793
+msgid ""
+"Maximum number of chars from excerpt / content to be displayed (the text "
+"will be truncated, but will not break words)."
+msgstr ""
+
+#: latest-post-shortcode.php:802
+msgid "Use Post URL"
+msgstr ""
+
+#: latest-post-shortcode.php:810
+msgid "Custom 'Read more' message"
+msgstr ""
+
+#: latest-post-shortcode.php:811
+msgid ""
+"Do not use brackets for the custom read more message, these are shortcodes "
+"delimiters."
+msgstr ""
+
+#: latest-post-shortcode.php:821
+msgid "Use Image"
+msgstr ""
+
+#: latest-post-shortcode.php:824
+msgid "No Image"
+msgstr ""
+
+#: latest-post-shortcode.php:831
+msgid "full (original size)"
+msgstr ""
+
+#: latest-post-shortcode.php:836
+msgid "Image Placeholder"
+msgstr ""
+
+#: latest-post-shortcode.php:839
+msgid ""
+"Define an image to be used for the posts that do not have a featured image."
+msgstr ""
+
+#: latest-post-shortcode.php:848
+msgid "Tile Pattern"
+msgstr ""
+
+#: latest-post-shortcode.php:861
+msgid "markup"
+msgstr ""
+
+#: latest-post-shortcode.php:869
+msgid ""
+"The icons represent the order of the HTML tags, the links are marked with "
+"red."
+msgstr ""
+
+#: latest-post-shortcode.php:870
+msgid ""
+"You are using a custom output, the markup is handled programatically, in "
+"your custom code."
+msgstr ""
+
+#: latest-post-shortcode.php:881
+msgid ""
+"Please note that if you are using a custom output template defined in your "
+"theme, the author, the taxonomies and the tags extra options will not "
+"function, since your custom template is overriding the output and the "
+"default behavior."
+msgstr ""
+
+#: latest-post-shortcode.php:887
+msgid "Author"
+msgstr ""
+
+#: latest-post-shortcode.php:892
+msgid "Tags"
+msgstr ""
+
+#: latest-post-shortcode.php:898
+msgid "Options"
+msgstr ""
+
+#: latest-post-shortcode.php:899
+msgid "Show "
+msgstr ""
+
+#: latest-post-shortcode.php:903
+msgid "Do not display Uncategorized term"
+msgstr ""
+
+#: latest-post-shortcode.php:905
+msgid "Display position"
+msgstr ""
+
+#: latest-post-shortcode.php:907
+msgid "default"
+msgstr ""
+
+#: latest-post-shortcode.php:918
+msgid "Style"
+msgstr ""
+
+#: latest-post-shortcode.php:921
+msgid "CSS Class"
+msgstr ""
+
+#: latest-post-shortcode.php:923
+msgid "Ex: two-columns, three-columns"
+msgstr ""
+
+#: latest-post-shortcode.php:924
+msgid ""
+"The CSS class/classes you can use to customize the appearance of the "
+"shortcode output."
+msgstr ""
+
+#: latest-post-shortcode.php:945
+msgid "Slider Settings"
+msgstr ""
+
+#: latest-post-shortcode.php:948
+msgid "Slides Transition"
+msgstr ""
+
+#: latest-post-shortcode.php:951
+msgid "horizontal"
+msgstr ""
+
+#: latest-post-shortcode.php:952
+msgid "vertical"
+msgstr ""
+
+#: latest-post-shortcode.php:953
+msgid "fade"
+msgstr ""
+
+#: latest-post-shortcode.php:959
+msgid "Center Mode"
+msgstr ""
+
+#: latest-post-shortcode.php:962 latest-post-shortcode.php:986
+#: latest-post-shortcode.php:1063 latest-post-shortcode.php:1072
+#: latest-post-shortcode.php:1081 latest-post-shortcode.php:1090
+#: latest-post-shortcode.php:1139 latest-post-shortcode.php:1148
+#: latest-post-shortcode.php:1179 latest-post-shortcode.php:1188
+msgid "no"
+msgstr ""
+
+#: latest-post-shortcode.php:963
+msgid "center mode"
+msgstr ""
+
+#: latest-post-shortcode.php:970
+msgid ""
+"The center mode is intended to works for the cases when you are showing more "
+"slides per row, and works better when you use an odd number of slides (3, 5, "
+"etc.), so, if your slider is presenting one slide at a time, you might want "
+"to switch this option off."
+msgstr ""
+
+#: latest-post-shortcode.php:974
+msgid "Center Mode Padding"
+msgstr ""
+
+#: latest-post-shortcode.php:977
+msgid "The value in pixels for the padding of the center slide."
+msgstr ""
+
+#: latest-post-shortcode.php:983
+msgid "Auto Play"
+msgstr ""
+
+#: latest-post-shortcode.php:993
+msgid "Speed"
+msgstr ""
+
+#: latest-post-shortcode.php:996
+msgid "Autoplay speed in milliseconds."
+msgstr ""
+
+#: latest-post-shortcode.php:1001
+msgid "Height"
+msgstr ""
+
+#: latest-post-shortcode.php:1004
+msgid "adaptive"
+msgstr ""
+
+#: latest-post-shortcode.php:1005
+msgid "fixed"
+msgstr ""
+
+#: latest-post-shortcode.php:1007
+msgid "This depends on the image size you select"
+msgstr ""
+
+#: latest-post-shortcode.php:1012
+msgid "Maximum Height"
+msgstr ""
+
+#: latest-post-shortcode.php:1015
+msgid "Provide the value in pixels for the maximum height of the slider."
+msgstr ""
+
+#: latest-post-shortcode.php:1020
+msgid "Show Slide Overlay"
+msgstr ""
+
+#: latest-post-shortcode.php:1023
+msgid "title + few chars from the excerpt"
+msgstr ""
+
+#: latest-post-shortcode.php:1024
+msgid "only title "
+msgstr ""
+
+#: latest-post-shortcode.php:1025
+msgid "only few chars from the excerpt"
+msgstr ""
+
+#: latest-post-shortcode.php:1026
+msgid "no overlay, just the image"
+msgstr ""
+
+#: latest-post-shortcode.php:1028
+msgid ""
+"The slide will display over the image the title and few chars from the "
+"excerpt (what you define for the Post Appearance > Chars Limit below)."
+msgstr ""
+
+#: latest-post-shortcode.php:1032
+msgid "Slides Gaps"
+msgstr ""
+
+#: latest-post-shortcode.php:1035
+msgid "no gaps"
+msgstr ""
+
+#: latest-post-shortcode.php:1036
+msgid "5px"
+msgstr ""
+
+#: latest-post-shortcode.php:1037
+msgid "10px"
+msgstr ""
+
+#: latest-post-shortcode.php:1038
+msgid "15px"
+msgstr ""
+
+#: latest-post-shortcode.php:1039
+msgid "20px"
+msgstr ""
+
+#: latest-post-shortcode.php:1040
+msgid "25px"
+msgstr ""
+
+#: latest-post-shortcode.php:1041
+msgid "30px"
+msgstr ""
+
+#: latest-post-shortcode.php:1042
+msgid "50px"
+msgstr ""
+
+#: latest-post-shortcode.php:1044
+msgid "This is useful when you want to display more visible slides in the row."
+msgstr ""
+
+#: latest-post-shortcode.php:1048 latest-post-shortcode.php:1124
+#: latest-post-shortcode.php:1164
+msgid "Slides to Show"
+msgstr ""
+
+#: latest-post-shortcode.php:1054 latest-post-shortcode.php:1130
+#: latest-post-shortcode.php:1170
+msgid "Slides to Scroll"
+msgstr ""
+
+#: latest-post-shortcode.php:1060 latest-post-shortcode.php:1136
+#: latest-post-shortcode.php:1176
+msgid "Show Dots"
+msgstr ""
+
+#: latest-post-shortcode.php:1069 latest-post-shortcode.php:1145
+#: latest-post-shortcode.php:1185
+msgid "Infinite Scroll"
+msgstr ""
+
+#: latest-post-shortcode.php:1078
+msgid "Next/Previous"
+msgstr ""
+
+#: latest-post-shortcode.php:1087
+msgid "Responsive"
+msgstr ""
+
+#: latest-post-shortcode.php:1099
+msgid "Responsive Slider Settings"
+msgstr ""
+
+#: latest-post-shortcode.php:1102
+msgid "Respond to"
+msgstr ""
+
+#: latest-post-shortcode.php:1105
+msgid "window"
+msgstr ""
+
+#: latest-post-shortcode.php:1107
+msgid "min"
+msgstr ""
+
+#: latest-post-shortcode.php:1110
+msgid ""
+"Width that responsive object responds to, the min (default) option means the "
+"smaller of the window or slider."
+msgstr ""
+
+#: latest-post-shortcode.php:1115
+msgid "Tablet Settings"
+msgstr ""
+
+#: latest-post-shortcode.php:1118 latest-post-shortcode.php:1158
+msgid "Breakpoint"
+msgstr ""
+
+#: latest-post-shortcode.php:1155
+msgid "Mobile Settings"
+msgstr ""
+
+#: latest-post-shortcode.php:1319 latest-post-shortcode.php:1344
+#: latest-post-shortcode.php:1346
+msgid "Page"
+msgstr ""
+
+#: latest-post-shortcode.php:1319
+msgid "of"
+msgstr ""
+
+#: latest-post-shortcode.php:1322 latest-post-shortcode.php:1325
+#: latest-post-shortcode.php:1341
+msgid "First"
+msgstr ""
+
+#: latest-post-shortcode.php:1331 latest-post-shortcode.php:1333
+#: latest-post-shortcode.php:1336
+msgid "Previous"
+msgstr ""
+
+#: latest-post-shortcode.php:1352 latest-post-shortcode.php:1354
+msgid "Next"
+msgstr ""
+
+#: latest-post-shortcode.php:1357 latest-post-shortcode.php:1360
+msgid "Last"
+msgstr ""
+
+#: latest-post-shortcode.php:1721
+msgid "By"
+msgstr ""
+
+#: latest-post-shortcode.php:2153
+msgid "Plugin URL"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://iuliacazan.ro/latest-post-shortcode/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin allows you to create a dynamic content selection from your "
+"posts, pages and custom post types that can be embedded with a UI "
+"configurable shortcode."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Iulia Cazan"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/iulia-cazan"
+msgstr ""

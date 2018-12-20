@@ -1,0 +1,1 @@
+timely.define(["jquery_timely","ai1ec_config"],function(e,t){e('input[name="ai1ec_cost_type"]').on("click change",function(){var t=e(".ai1ec-tickets-form, .ai1ec-tickets-list-container"),n=e(".ai1ec-tickets-external");"free"===this.value?(t.hide(),n.hide()):"tickets"===this.value?(t.show(),n.hide()):(t.hide(),n.show())}),e('input[name="ai1ec_cost_type"]:checked').click()});

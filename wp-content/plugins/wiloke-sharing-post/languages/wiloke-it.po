@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wiloke Sharing Post\n"
+"POT-Creation-Date: 2015-10-29 10:48+0700\n"
+"PO-Revision-Date: 2015-10-29 11:27+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wiloke-sharing-post-init.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wiloke-sharing-post-init.php:123
+msgid "Share to Facebook"
+msgstr "Condividi su Facebook"
+
+#: wiloke-sharing-post-init.php:127
+msgid "Share to Twitter"
+msgstr "﻿Condividi su Twitter"
+
+#: wiloke-sharing-post-init.php:131
+msgid "Share to Google Plus"
+msgstr "Condividi questo articolo su Google Plus"
+
+#: wiloke-sharing-post-init.php:139
+msgid "Share to Reddit"
+msgstr "Condividi su Reddit"
+
+#: wiloke-sharing-post-init.php:143
+msgid "Share to LinkedIn"
+msgstr "Condividi su LinkedIn"
+
+#: wiloke-sharing-post-init.php:147
+msgid "Share to StumbleUpon"
+msgstr "Condividi su StumbleUpon"
+
+#: wiloke-sharing-post-init.php:151
+msgid "Share to Tumblr"
+msgstr "Condividi su Tumblr"
+
+#: wiloke-sharing-post-init.php:155
+msgid "Share to Pinterest"
+msgstr "Condividi su Pinterest"
+
+#: wiloke-sharing-post-init.php:159
+msgid "Email this article"
+msgstr "Invia questo articolo"
+
+#. Plugin Name of the plugin/theme
+#. Description of the plugin/theme
+msgid "Wiloke Sharing Post"
+msgstr "Wiloke condivisione Post"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://wiloke.net"
+msgstr "http://wiloke.NET"
+
+#. Author of the plugin/theme
+msgid "Minhminh - Wiloke Team"
+msgstr "Minhminh - Wiloke Team"
